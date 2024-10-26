@@ -1,5 +1,3 @@
-// weather API key  69b87a5434de5c1609526e070478e248
-
 use dotenv::dotenv;
 use reqwest::Error;
 use serde::Deserialize;
